@@ -1,4 +1,4 @@
-from basepage import BasePage
+from Trash.base_page import BasePage
 from selenium.webdriver.common.by import By
 
 
